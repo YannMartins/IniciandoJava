@@ -3,4 +3,4 @@
   <h1 align="center">Java - Programação Orientada a Objetos</h1>
 </p>
 
-Exemplos do curso de Análise e Desenvolvimento de Sistemas para a disciplina de Programação Orientada a Objetos na faculadade UNIESP Centro Universtário.
+Exemplos do curso de Análise e Desenvolvimento de Sistemas para a disciplina de Programação Orientada a Objetos.
