@@ -11,4 +11,4 @@
 
 *Compilado de projetos do curso Trilha Java Básico da [DIO](https://www.dio.me/).*
 
-Primordialmente criado para ser um campo de testes voltado à pratica das minhas habilidades na linguagem de programação Java e suas respectivas definições. Iniciado através da Imersão Java disponibilizada pela [Alura](https://www.alura.com.br/) e dado sequência com a disciplina de Programação Orientada a Objetos (POO) na UNIESP Centro Universitário e Bootcamp Santander Bootcamp 2023 - Fullstack Java+Angular.
+Primordialmente criado para ser um campo de testes voltado à pratica das minhas habilidades na linguagem de programação Java e suas respectivas definições. Iniciado através da Imersão Java disponibilizada pela [Alura](https://www.alura.com.br/) e dado sequência com a disciplina de Programação Orientada a Objetos (POO) na UNIESP Centro Universitário, e [Santander Bootcamp 2023 - Fullstack Java+Angular](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular).
