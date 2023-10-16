@@ -1,4 +1,3 @@
-
 <p align=center>
   <img src="https://github.com/YannMartins/IniciandoJava/assets/102706324/ff0541b7-49e4-4394-a761-85ba028d79b5">
   <h1 align=center>DIO - Trilha Java Básico</h1>
@@ -24,5 +23,4 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 
 ![image](https://github.com/YannMartins/IniciandoJava/assets/102706324/844712fc-d1d5-4d09-a675-36a7c0a93162)
 
-![image](https://github.com/YannMartins/IniciandoJava/assets/102706324/a14d0457-7cef-4d84-a6c8-e2ddc63e4cf2)
-
+![image](https://github.com/YannMartins/IniciandoJava/assets/102706324/847d732d-f0a7-45d5-8055-3a07dca57a09)
